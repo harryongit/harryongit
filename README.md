@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science And ML Projects**
 
-- 👨‍💻 All of about me is available at [https://www.linkedin.com/in/harivdan-n-885261176/](https://www.linkedin.com/in/harivdan-n-885261176/)
+- 👨‍💻 All of about me is available at [https://www.linkedin.com/in/harivdann/](https://www.linkedin.com/in/harivdann/)
 
 - 💬 Ask me about **python, data science, AI-ML.**
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/harivdan-n-885261176/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harivdan n." height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harivdann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harivdan n." height="30" width="40" /></a>
 </p>
 
 
