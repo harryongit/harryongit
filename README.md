@@ -3,17 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harryongit&label=Profile%20views&color=0e75b6&style=flat" alt="harryongit" /> </p>
 
-Welcome to my GitHub profile! I'm a passionate software engineer who loves solving problems, building scalable solutions, and exploring new technologies. My journey in the tech world revolves around writing clean, efficient code and continuously learning to stay ahead in this ever-evolving field.
+Welcome to my GitHub profile! I'm a passionate software engineer who loves solving problems, building scalable solutions, and exploring new technologies. My journey in the tech world revolves around writing clean, efficient code and continuously learning to stay ahead in this ever-evolving field. Expertise in **Machine Learning**, **IoT**, and **Full-Stack Development**. I thrive on solving real-world problems through innovative solutions and leveraging advanced technologies to drive impactful results.
+
 
 ## About Me
 
-- **🌟 Areas of Expertise**: Full-Stack Development | Data Analysis | Cloud Solutions | Networking
-- **🔎 Interests**: Artificial Intelligence, Machine Learning, Data Visualization, and Web Development
+- 🌟 **Core Skills:**
+  - **Programming Languages:** Python, SQL, Java, C/C++, JavaScript
+  - **Frameworks & Tools:** TensorFlow, Keras, Django, Flask, FastAPI, React
+  - **Web Development:** HTML, CSS, PHP
+  - **Databases:** MongoDB, MySQL
+  - **Other Skills:** Embedded Systems, REST APIs, Git, Agile Methodologies
+- 📚 **Interests:** Data Science, Algorithmic Trading, Robotics, Machine Learning, Data Visualization and AI-powered applications.
 - **📈 Career Vision**: To create impactful software solutions that drive innovation and transform lives
 - **🎨 Creativity Beyond Code**: When I'm not coding, you might find me exploring new books, volunteering, or learning something new.
-- 👨‍💻 All of about me is available at [https://www.linkedin.com/in/harivdann/](https://www.linkedin.com/in/harivdann/)
-- 💬 Ask me about **python, data science, AI-ML.**
-- 📫 How to reach me **harryshastri21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,25 +26,25 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves solvi
 ## Tools & Technologies
 
 ### Programming Languages
-- Python, JavaScript, Java, SQL
+- Python, SQL, Java, C/C++, JavaScript
 
 ### Frameworks & Libraries
-- React.js, Node.js, Django, FastAPI
+- TensorFlow, Keras, Django, Flask, FastAPI, React
 
 ### Tools & Platforms
 - Git, Docker, Kubernetes, AWS
 
 ### Databases
-- MySQL, PostgreSQL, MongoDB
+- MySQL, MongoDB, Firebase
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harivdan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harivdan&layout=compact&theme=radical)
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harryongit&show_icons=true&locale=en&layout=compact" alt="harryongit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harryongit&" alt="harryongit" /></p>
 
 ---
+> "Innovation distinguishes between a leader and a follower." – **Steve Jobs**
 
 ## Get In Touch
 
@@ -49,11 +52,5 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves solvi
 - **LinkedIn**: [Harivdan Narayanshastri](https://linkedin.com/in/harivdann)
 - **Phone**: +91 9130532666
 
-Feel free to connect if you'd like to collaborate on projects or discuss ideas. Let's build something amazing together!
-
----
-
-### Fun Fact
-☕ Coffee fuels my code, and curiosity drives my learning.
-
+Feel free to explore my repositories, contribute, or reach out for collaborations! 🤝
 ---
