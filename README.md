@@ -18,10 +18,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves solvi
 - **📈 Career Vision**: To create impactful software solutions that drive innovation and transform lives
 - **🎨 Creativity Beyond Code**: When I'm not coding, you might find me exploring new books, volunteering, or learning something new.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/harivdann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harivdan n." height="30" width="40" /></a>
-</p>
 
 ## Tools & Technologies
 
