@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harryongit&label=Profile%20views&color=0e75b6&style=flat" alt="harryongit" /> </p>
 
-Welcome to my GitHub profile! I'm a passionate software engineer who loves solving problems, building scalable solutions, and exploring new technologies. My journey in the tech world revolves around writing clean, efficient code and continuously learning to stay ahead in this ever-evolving field.
+<p>Welcome to my GitHub profile! I'm a passionate software engineer who loves solving problems, building scalable solutions, and exploring new technologies. My journey in the tech world revolves around writing clean, efficient code and continuously learning to stay ahead in this ever-evolving field.</p>
 
 ## About Me
 
