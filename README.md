@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Harivdan Narayanshastri 👨‍💻</h1>
 
 <div align="center">
-  <img src="your-banner-url-here.png" alt="Banner" width="100%"/>
+  <img src="https://github.com/harryongit/harryongit/blob/main/Github%20Banner.png" alt="Banner" width="100%"/>
 </div>
 
 <p align="center">
