@@ -2,90 +2,125 @@
   <img src="https://github.com/harryongit/harryongit/blob/main/Github%20Banner.png" alt="Banner" width="100%"/>
 </div>
 
-<h1 align="center">Harivdan Narayanshastri</h1>
+<div align="center">
 
-<h3 align="center">Software Engineer | ML Specialist | Full-Stack Developer</h3>
+# Harivdan Narayanshastri
 
-<p align="center">
-  <a href="https://linkedin.com/in/harivdann"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:harryshastri21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=harryongit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2D9EF4&center=true&vCenter=true&width=435&lines=Principal+Software+Engineer;Machine+Learning+Architect;Cloud+Solutions+Expert;Innovation+Leader)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Engineer;Full+Stack+Developer;IoT+Specialist;Data+Science+Enthusiast)](https://git.io/typing-svg)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harivdann)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harryshastri21@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=opencv)](https://yourportfolio.com)
+  
+![Profile Views](https://komarev.com/ghpvc/?username=harryongit&label=Profile%20Views&color=0e75b6&style=flat)
 </div>
 
-## 👨‍💻 Professional Summary
-Innovative Software Engineer with expertise in Machine Learning, IoT, and Full-Stack Development. Proven track record in developing scalable solutions and implementing cutting-edge technologies. Committed to creating impactful solutions that drive business value and technological advancement.
+---
 
-## 🔧 Core Competencies
-```python
-{
-    "Machine Learning": ["TensorFlow", "Keras", "Computer Vision", "NLP"],
-    "Full Stack": ["React", "Django", "FastAPI", "Node.js"],
-    "IoT": ["Embedded Systems", "Sensor Integration", "Real-time Analytics"],
-    "Cloud": ["AWS", "Docker", "Kubernetes", "Microservices"]
+## 🎯 Professional Overview
+
+`Software Engineering Lead` specializing in enterprise-scale solutions with deep expertise in:
+- Machine Learning & AI Systems Architecture
+- Cloud-Native Development & DevOps
+- IoT Solutions & Embedded Systems
+- Full-Stack Enterprise Applications
+
+## 💼 Technical Architecture
+
+```mermaid
+graph TD
+    A[Frontend Development] --> B[React/Next.js]
+    A --> C[TypeScript]
+    D[Backend Systems] --> E[Python Ecosystem]
+    D --> F[Microservices]
+    G[Infrastructure] --> H[AWS/Cloud]
+    G --> I[Docker/K8s]
+    J[AI/ML] --> K[TensorFlow]
+    J --> L[PyTorch]
+```
+
+## 🛠️ Technology Stack
+
+<details>
+<summary><b>Development & Architecture</b></summary>
+
+```yaml
+Languages:
+  Primary: [Python, Java, JavaScript/TypeScript]
+  Secondary: [C++, GoLang, SQL]
+
+Frameworks:
+  Backend: [Django, FastAPI, Spring Boot]
+  Frontend: [React, Next.js, Vue.js]
+  ML/AI: [TensorFlow, PyTorch, Scikit-learn]
+
+Infrastructure:
+  Cloud: [AWS, GCP, Azure]
+  Containers: [Docker, Kubernetes]
+  CI/CD: [Jenkins, GitLab CI, GitHub Actions]
+```
+</details>
+
+<details>
+<summary><b>Specialized Tools & Platforms</b></summary>
+
+```yaml
+Databases:
+  SQL: [PostgreSQL, MySQL]
+  NoSQL: [MongoDB, Cassandra]
+  Cache: [Redis, Memcached]
+
+Analytics:
+  Tools: [Elasticsearch, Kibana]
+  Streaming: [Kafka, RabbitMQ]
+  Monitoring: [Prometheus, Grafana]
+```
+</details>
+
+## 📊 Engineering Metrics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harryongit&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harryongit&theme=github-dark-blue"/>
+</div>
+
+## 🎓 Certifications & Expertise
+
+```typescript
+const certifications = {
+    aws: ['Solutions Architect Professional', 'DevOps Engineer Professional'],
+    google: ['Professional Cloud Architect', 'Professional Data Engineer'],
+    microsoft: ['Azure Solutions Architect', 'Azure AI Engineer'],
+    specializations: ['Machine Learning', 'Cloud Architecture', 'Enterprise Solutions']
 }
 ```
 
-## 💻 Technical Proficiency
+## 🌟 Key Projects & Contributions
 
 <details>
-<summary>Programming Languages</summary>
-<br>
+<summary><b>Enterprise Solutions</b></summary>
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **AI-Powered Analytics Platform**
+  - Architected scalable ML pipeline processing 10M+ daily transactions
+  - Reduced inference time by 60% through optimization
+  
+- **IoT Fleet Management System**
+  - Designed real-time monitoring system for 50K+ devices
+  - Implemented predictive maintenance saving $2M annually
 </details>
-
-<details>
-<summary>Frameworks & Libraries</summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-</details>
-
-<details>
-<summary>Tools & Infrastructure</summary>
-<br>
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-</details>
-
-## 📊 Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=harryongit&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harryongit&theme=dark" alt="GitHub Streak"/>
-</div>
-
-## 🎯 Professional Focus
-- Developing scalable ML solutions
-- Building robust IoT systems
-- Creating efficient microservices architectures
-- Implementing cloud-native applications
-- Advancing algorithmic trading systems
 
 ## 📫 Professional Contact
-```javascript
-const contact = {
-    email: "harryshastri21@gmail.com",
-    linkedin: "linkedin.com/in/harivdann",
-    phone: "+91 9130532666"
+
+```python
+contact_info = {
+    "email": "harryshastri21@gmail.com",
+    "linkedin": "linkedin.com/in/harivdann",
+    "phone": "+91 9130532666",
+    "location": "Available for Global Remote Opportunities"
 }
 ```
 
@@ -93,6 +128,8 @@ const contact = {
 
 ---
 
-### "Building tomorrow's solutions with today's innovation"
+### "Architecting Tomorrow's Technology Today"
+
+<sub>Open to collaboration on innovative projects and technical leadership roles</sub>
 
 </div>
