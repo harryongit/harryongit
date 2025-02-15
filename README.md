@@ -15,7 +15,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harivdann)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harryshastri21@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=opencv)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=opencv)](https://harryongit.github.io/myportfolio/)
   
 ![Profile Views](https://komarev.com/ghpvc/?username=harryongit&label=Profile%20Views&color=0e75b6&style=flat)
 </div>
