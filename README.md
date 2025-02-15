@@ -78,7 +78,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=harryongit&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harryongit&theme=dark" alt="GitHub Streak"/>
 </div>
 
 ## 🎯 Professional Focus
