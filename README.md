@@ -101,6 +101,7 @@ const contact = {
     email: "harryshastri21@gmail.com",
     linkedin: "linkedin.com/in/harivdann",
     phone: "+91 9130532666"
+
 }
 ```
 
