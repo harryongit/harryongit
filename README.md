@@ -1,104 +1,107 @@
 
 <div align="center">
+  
   <img src="https://github.com/harryongit/harryongit/blob/main/Github%20Banner.png" alt="Banner" width="100%"/>
+  
 </div>
 
 <div align="center">
 # Harivdan Narayanshastri
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2D9EF4&center=true&vCenter=true&width=435&lines=Data+Science+%26+AI+Engineer;Business+Intelligence+Specialist;Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2D9EF4&center=true&vCenter=true&width=435&lines=Data+Science+%26+AI+Engineer;Business+Intelligence+Specialist;Full-Stack+Developer;ML+%26+Cloud+Architect)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
+
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harivdann)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harryshastri21@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel)](https://theharryfolio.netlify.app/)
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=harryongit&label=Profile%20Views&color=0e75b6&style=flat)
 </div>
 
 ---
 
-## 👨‍💼 Professional Summary
+## 🎯 Professional Overview
 
-Data Science & AI Engineer with 1+ years experience in ML, Business Intelligence, and Full-Stack Development. Delivered production systems improving decision-making by 25% and reducing manual workflows by 75%.[file:1]
+**Data Science & AI Engineer** with 1+ years experience specializing in:
+- Machine Learning & Predictive Analytics
+- Business Intelligence & Data Visualization
+- Full-Stack Development & Cloud Solutions
+- Legal Tech & Financial Analytics[file:1]
 
-**Current Role:** Business Intelligence Specialist at Narayani Associates
-
----
-
-## 💼 Experience
-
-**Business Intelligence Specialist**  
-*Narayani Associates* | Nov 2024 – Present  
-- Built ETL pipelines processing 500K+ records daily (75% efficiency gain)[file:1]  
-- Power BI/Tableau dashboards for legal analytics (30% transparency boost)[file:1]
-
-**Data Scientist**  
-*Shekrulabs India* | Jun–Oct 2024  
-- AutoProfito: 85% accurate financial prediction platform[file:1]  
-- REST APIs handling 10GB+ data daily (40% faster)[file:1]
-
-**Associate Engineer - AI/ML**  
-*L&T Technology Services* | Dec 2021 – Aug 2022  
-- Predictive maintenance ML (20% failure reduction, $150K savings)[file:1]
-
----
-
-## 🛠 Core Skills
-
+## 🔧 Core Competencies
 ```
-Data Science: TensorFlow, PyTorch, Scikit-learn, NLP, CV
-Full-Stack: React, FastAPI, Django, REST APIs, MongoDB/MySQL
-BI: Power BI, Tableau, ETL, KPI Dashboards
-Cloud: AWS, Docker, Kubernetes, CI/CD
-```
+{
+    "Data Science": ["TensorFlow", "PyTorch", "Scikit-learn", "NLP", "Computer Vision"],
+    "Business Intelligence": ["Power BI", "Tableau", "ETL Pipelines", "KPI Dashboards"],
+    "Full Stack": ["React", "FastAPI", "Django", "MongoDB", "MySQL"],
+    "Cloud & DevOps": ["AWS", "Docker", "Kubernetes", "CI/CD"]
+}
+```[file:1]
 
----
+## 💻 Technical Proficiency
 
-## 🔥 Key Projects
+<details>
+<summary>Programming Languages</summary>
+<br>
 
-| Project | Tech Stack | Impact |
-|---------|------------|--------|
-| **CapyBill** | React + FastAPI + LLM | 92% invoice accuracy, 40% time saved[file:1] |
-| **AutoProfito** | NLP + Deep Learning | 85% market prediction accuracy[file:1] |
-| **AlgoTrading** | Ensemble ML | 82% price prediction, 200+ daily trades[file:1] |
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</details>
 
-**Live:** [capybill.com](https://capybill.com) | [nalaw.in](https://nalaw.in)
+<details>
+<summary>Frameworks & Libraries</summary>
+<br>
 
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
+</details>
 
-## 🎓 Education
+<details>
+<summary>Tools & Infrastructure</summary>
+<br>
 
-- **M.Tech AI & Data Science** – PCCOE (2025-2027)[file:1]
-- **PG Diploma Data Science** – IIIT Bangalore (2025-Present)[file:1]  
-- **B.E. Computer Engineering** – SPPU (8.3 CGPA)[file:1]
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+</details>
 
-**Certifications:** AWS ML Specialty, IBM Data Science, TensorFlow Developer[file:1]
-
----
-
-## 📊 GitHub Stats
+## 📊 Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harryongit&show_icons=true&theme=radical&hide_border=true" width="48%" height="180px" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryongit&layout=compact&theme=radical&hide_border=true" width="47%" height="180px" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=harryongit&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages"/>
 </div>
 
----
+## 🎯 Professional Focus
+- **Business Intelligence** at Narayani Associates (Present)[file:1]
+- **CapyBill**: AI Legal Billing (92% accuracy)[file:1]
+- **AutoProfito**: 85% Financial Prediction Platform[file:1]
+- Scalable ML systems & Cloud-native applications[file:1]
 
-## 📫 Contact
-
+## 📫 Professional Contact
 ```
 const contact = {
-  email: "harryshastri21@gmail.com",
-  linkedin: "linkedin.com/in/harivdann",
-  location: "Pune, India",
-  phone: "+91 9130532666"
+    email: "harryshastri21@gmail.com",
+    linkedin: "linkedin.com/in/harivdann",
+    phone: "+91 9130532666",
+    location: "Pune, Maharashtra, India"
 }
-```
+```[file:1]
 
 <div align="center">
-*Building intelligent systems that drive business impact*
+
+---
+
+### "Transforming data into intelligent business solutions"
+
 </div>
