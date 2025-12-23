@@ -81,8 +81,11 @@
 ## 📊 Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=harryongit&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryongit&layout=compact&theme=radical" alt="Most Used Languages"/>
+
 </div>
+
 
 ## 🎯 Professional Focus
 - Developing scalable ML solutions
